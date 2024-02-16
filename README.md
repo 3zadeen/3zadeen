@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2> Hello there, I'm Ezaden <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<!--
-**3zadeen/3zadeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[
+![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://ezaden.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezaden/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3zadeens)
 
-Here are some ideas to get you started:
+I'm a Software Engineer with 6 years of experience developing large scale iOS apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Professional Skills
+Here are some skills I've acquired throughout my journey as a developer:
+-  **Mobile (iOS):**  Swift, Objective-C
+-  **BackEnd:**  Golang, Python
+-  **FrontEnd web:** TypeScript, React
+-  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes
+-  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (DynamoDB)
