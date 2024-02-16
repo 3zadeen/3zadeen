@@ -8,7 +8,7 @@ I'm a Software Engineer with 6 years of experience developing large scale iOS ap
 ## 👨‍💻 Professional Skills
 Here are some skills I've acquired throughout my journey as a developer:
 -  **Mobile (iOS):**  Swift, Objective-C
--  **BackEnd:**  Golang, Python
--  **FrontEnd web:** TypeScript, React
+-  **Backend:**  Golang, Python
+-  **Frontend web:** TypeScript, React
 -  **DevOps:**  Amazon Web Services (AWS), Google Cloud, Docker, Kubernetes
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (DynamoDB)
