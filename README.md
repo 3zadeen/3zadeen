@@ -3,7 +3,7 @@
 [
 ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://ezaden.com/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezaden/) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3zadeens)
 
-I'm a Software Engineer with 6 years of experience developing large scale iOS apps.
+I'm a Software Engineer with 7 years of experience developing large scale iOS apps.
 
 ## 👨‍💻 Professional Skills
 Here are some skills I've acquired throughout my journey as a developer:
